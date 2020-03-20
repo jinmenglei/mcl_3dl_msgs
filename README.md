@@ -6,6 +6,6 @@ rebuild this msg for ros2.0
 
 ros-dashing
 
-ament
+dashing
 
 change file CMakelists.txt and package.xml
